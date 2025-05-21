@@ -1,0 +1,16 @@
+.container-section-five {
+    display: flex;
+}
+
+.container-section-five-left {
+    width: 50%;
+
+}
+.container-section-five-child-right-left-arrow{
+    display: flex;
+    gap: 1.5rem;
+}
+.container-section-five-right {
+    width: 50%;
+
+}
